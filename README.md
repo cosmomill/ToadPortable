@@ -1,7 +1,7 @@
 Install Toad for Oracle Portable 
 --------------------------------
 
-Download and run ToadPortable_0.0.1_Development_test_1.paf.exe
+Download and run [ToadPortable_0.0.1_Development_test_1.paf.exe](ToadPortable_0.0.1_Development_test_1.paf.exe)
 
 #####Getting Toad for Oracle
 
